@@ -33,7 +33,7 @@
   "author": "Michel Petit <petit.michel@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "minimist": "~1.1.1",
+    "minimist": "^1.2.5",
     "sprint": "^0.3.1"
   }
 }
